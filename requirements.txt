@@ -1,0 +1,11 @@
+matplotlib
+librosa
+pandas
+tqdm
+resampy # dependency of librosa
+tensorflow
+seaborn
+
+joblib
+
+streamlit
